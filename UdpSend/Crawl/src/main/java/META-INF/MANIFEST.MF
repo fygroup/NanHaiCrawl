@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Class-Path: mssql-jdbc-6.1.0.jre8.jar commons-codec-1.10.jar maritech-
+ comm.jar quartz-2.2.1.jar xmlParserAPIs-2.6.2.jar jersey-core-1.13.ja
+ r commons-io-1.3.2.jar jaxen-1.1-beta-8.jar xalan-2.7.0.jar dom4j-1.6
+ .1.jar assertj-core-1.5.0.jar xml-apis-1.0.b2.jar jsoup-1.10.3.jar co
+ mmons-lang-2.5.jar commons-beanutils-1.8.0.jar jettison-1.1.jar json-
+ smart-2.3.jar maritech-core.jar lang-tag-1.4.jar xercesImpl-2.6.2.jar
+  jcip-annotations-1.0.jar jaxb-impl-2.2.3-1.jar xsoup-0.3.1.jar jdom-
+ 1.0.jar xom-1.1.jar fastjson-1.2.28.jar httpcore-4.4.4.jar jackson-xc
+ -1.9.2.jar jackson-mapper-asl-1.9.2.jar jackson-jaxrs-1.9.2.jar commo
+ ns-net-3.6.jar jersey-client-1.13.jar json-path-2.4.0.jar javax.injec
+ t-1.jar jersey-json-1.13.jar nimbus-jose-jwt-3.1.2.jar slf4j-api-1.7.
+ 6.jar accessors-smart-1.2.jar httpclient-4.5.2.jar asm-5.0.4.jar bcpr
+ ov-jdk15on-1.51.jar quartz-jobs-2.2.1.jar log4j-1.2.17.jar c3p0-0.9.1
+ .1.jar jedis-2.9.0.jar azure-keyvault-0.9.3.jar adal4j-1.0.0.jar comm
+ ons-logging-1.1.1.jar jdom-2.0.2.jar jackson-core-asl-1.9.2.jar stax-
+ api-1.0-2.jar stax-api-1.0.1.jar mail-1.4.5.jar commons-collections-3
+ .2.2.jar webmagic-core-0.7.3.jar slf4j-log4j12-1.7.6.jar azure-core-0
+ .9.3.jar gson-2.2.4.jar json-lib-2.4-jdk15.jar commons-pool2-2.4.2.ja
+ r commons-lang3-3.1.jar oauth2-oidc-sdk-4.5.jar ezmorph-1.0.6.jar web
+ magic-extension-0.7.3.jar jaxb-api-2.2.2.jar activation-1.1.jar
+Main-Class: com.ab.crawl.App
+
